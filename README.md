@@ -1,4 +1,4 @@
-## Mastering Yii Chapter 2 Source Code
+## Mastering Yii Chapter 3 Source Code
 
 The following source code is the project for Chapter 3 of Mastering Yii
 ISBN-CH: 978-1-78588-242-5_03
